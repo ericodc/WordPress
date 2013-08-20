@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/mappress"]
+	path = wp-content/themes/mappress
+	url = git@github.com:cardume/mappress.git
