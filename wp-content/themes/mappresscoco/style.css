@@ -1,0 +1,13 @@
+/*
+Theme Name:     Mapp Press Cócó
+Theme URI:      http: //example.com/
+Description:    Child theme for the mappress theme 
+Author:         Your name here
+Author URI:     http: //example.com/about/
+Template:       mappress
+Version:        0.1.0
+*/
+
+
+
+@import url("../mappress/style.css");
