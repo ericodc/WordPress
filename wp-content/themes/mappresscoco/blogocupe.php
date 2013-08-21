@@ -7,7 +7,7 @@ Template Name: blogocupe
 
 <?php get_header(); ?>
 
-<?php query_posts('cat=2');?>
+<?php query_posts('cat=2&posts_per_page=5');?>
 
 <?php if(have_posts()) : the_post(); ?>
 	<section id="content" class="single-post">
